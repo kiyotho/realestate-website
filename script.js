@@ -14,7 +14,7 @@ function getPropertyHtml(pro_obj = placeholderPropertyObj){
                     <img src="./images/${image}" alt='${alt}'>
                     <div class="card-right">
                         <h2>${propertyLocation}</h2>
-                        <h3>${priceGBP}</h3>
+                        <h3>$${priceGBP}</h3>
                         <p>${houseSize} m&sup2</p>
                         <h3>Total size in sqaure meters </h3>
                     </div>
